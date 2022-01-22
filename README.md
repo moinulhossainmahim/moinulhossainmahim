@@ -6,7 +6,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 📚 I’m currently learning  MERN stack.
 - 💬 Ask me about JavaScript.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Isha2103&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=moinulhossainmahim&show_icons=true)
 
 ⭐️ From [Moinul Hossain](https://github.com/moinulhossainmahim)
 
