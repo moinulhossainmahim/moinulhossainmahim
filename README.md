@@ -5,8 +5,6 @@
 I'm a computer science student who is passionate about writing code, solving problems and building software.
 
 - 🔭 I’m currently a CSE student at Northern Unversity Bangladesh.
-- 📚 I’m currently learning  MERN stack.
-- 💬 Ask me about JavaScript.
 
 ⭐️ From [Moinul Hossain](https://github.com/moinulhossainmahim)
 
