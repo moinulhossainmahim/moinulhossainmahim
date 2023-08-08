@@ -6,4 +6,4 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 - 🔭 I’m currently a CSE student at Northern Unversity Bangladesh.
 
-⭐️ LinkedIN [Moinul Hossain](https://linkedin.com/in/moinulhossainmahim)
+⭐️ LinkedIn [Moinul Hossain](https://linkedin.com/in/moinulhossainmahim)
