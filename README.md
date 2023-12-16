@@ -1,21 +1,22 @@
 <h1>Hi 👋, I'm Moinul Hossain</h1>
-I am a Full Stack Web Application Developer who absolutely loves working with Next.js, React, TailwindCSS, APIs, Data Strcutures, Algorithms. ##Right now, I'm on the lookout for cool projects and job opportunities where I can bring my passion for coding to life.
+
+I am a Full Stack Web Application Developer who absolutely loves working with Next.js, React, TailwindCSS, APIs, Data Strcutures, Algorithms. **Right now, I'm on the lookout for cool projects and job opportunities where I can bring my passion for coding to life**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinulhossainmahim&label=Profile%20views&color=0e75b6&style=flat" alt="moinulhossainmahim" /> </p>
 
-- 🔭 I’m currently working on [Daily Shop](https://daily-shop-ui.vercel.app/)
+- 🔭 I’m currently working on: [Daily Shop](https://daily-shop-ui.vercel.app/)
 
-- 🌱 I’m currently learning **NestJS, Docker, Backend Development**
+- 🌱 I’m currently learning: **NestJS, Docker, Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://mahim.dev](https://mahim.dev)
+- 👨‍💻 All of my projects are available at: [https://mahim.dev](https://mahim.dev)
 
-- 💬 Ask me about **Next.js, JavaScript**
+- 💬 Ask me about: **Next.js, JavaScript**
 
-- 📫 How to reach me **moinulhossainmahim@gmail.com**
+- 📫 How to reach me: **moinulhossainmahim@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1ucvut7uGb0WEiBJ-VUHciZJ8tsZMNrEj](https://drive.google.com/drive/folders/1ucvut7uGb0WEiBJ-VUHciZJ8tsZMNrEj)
+- 📄 Know about my experiencesL [https://drive.google.com/drive/folders/1ucvut7uGb0WEiBJ-VUHciZJ8tsZMNrEj](https://drive.google.com/drive/folders/1ucvut7uGb0WEiBJ-VUHciZJ8tsZMNrEj)
 
-- ⚡ Fun fact **Equal is Not Always Equal in JS**
+- ⚡ Fun fact: **Equal is Not Always Equal in JS** 😁
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,3 +34,23 @@ I am a Full Stack Web Application Developer who absolutely loves working with Ne
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moinulhossainmahim&show_icons=true&locale=en" alt="moinulhossainmahim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moinulhossainmahim&" alt="moinulhossainmahim" /></p>
+
+<div align="center">
+
+<details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> MacOS 13 Ventura</li>
+	    <li><b>Laptop: </b> Macbook Air M1</li>
+  	    <li><b>Browser: </b> Chrome, Safari, Firefox</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+ 	    <li><b>Other Tools:</b> Postman, Trello and Google keep, Google tasks</li>
+	    <li><b>To Stay Updated:</b> Medium, Product Hunt and Hacker News</li>
+	</ul>
+</details>
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
