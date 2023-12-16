@@ -32,7 +32,7 @@ I am a Full Stack Web Application Developer who absolutely loves working with Ne
 
 - 📫 How to reach me: **moinulhossainmahim@gmail.com**
 
-- 📄 Know about my experiencesL [https://drive.google.com/drive/folders/1ucvut7uGb0WEiBJ-VUHciZJ8tsZMNrEj](https://drive.google.com/drive/folders/1ucvut7uGb0WEiBJ-VUHciZJ8tsZMNrEj)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/12-N_JNLSNs2m7MM0Oj7cr_WsSrjX-Nph/view?usp=sharing)
 
 - ⚡ Fun fact: **Equal is Not Always Equal in JS** 😁
 
