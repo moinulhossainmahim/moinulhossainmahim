@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moinul Hossain</h1>
-I am a Full Stack Web Application Developer who absolutely loves working with Next.js, React, TailwindCSS, APIs, Data Strcutures, Algorithms. <h3>Right now, I'm on the lookout for cool projects and job opportunities where I can bring my passion for coding to life</h3>
+I am a Full Stack Web Application Developer who absolutely loves working with Next.js, React, TailwindCSS, APIs, Data Strcutures, Algorithms. **Right now, I'm on the lookout for cool projects and job opportunities where I can bring my passion for coding to life**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinulhossainmahim&label=Profile%20views&color=0e75b6&style=flat" alt="moinulhossainmahim" /> </p>
 
