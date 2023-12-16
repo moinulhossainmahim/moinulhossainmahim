@@ -26,7 +26,7 @@ I am a Full Stack Web Application Developer who absolutely loves working with Ne
 
 - 🌱 I’m currently learning: **NestJS, Docker, Backend Development**
 
-- 👨‍💻 All of my projects are available at: [https://mahim.dev](https://mahim.dev)
+- 👨‍💻 All of my projects are available at: [Portfolio](https://mahim.dev)
 
 - 💬 Ask me about: **Next.js, JavaScript**
 
