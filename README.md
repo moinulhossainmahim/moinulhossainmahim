@@ -62,7 +62,7 @@ I am a Full Stack Web Application Developer who absolutely loves working with Ne
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
  	    <li><b>Other Tools:</b> Postman, Trello, Google keep, Google Tasks</li>
-	    <li><b>To Stay Updated:</b> Medium, Product Hunt and Hacker News</li>
+	    <li><b>To Stay Updated:</b> Medium, Dev, Hacker News</li>
 	</ul>
 </details>
 <div align="center">
