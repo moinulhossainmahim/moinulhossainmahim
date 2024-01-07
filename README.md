@@ -29,7 +29,7 @@ I am a Full Stack Web Application Developer who absolutely loves working with Ne
 
 - 👨‍💻 All of my projects are available at: [Portfolio](https://mahim.dev)
 
-- 💬 Ask me about: **Next.js, JavaScript**
+- 💬 Ask me about: **JavaScript, Web Devlopment**
 
 - 📫 How to reach me: **moinulhossainmahim@gmail.com**
 
