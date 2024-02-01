@@ -23,7 +23,7 @@ I am a Full Stack Web Application Developer who absolutely loves working with Ne
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinulhossainmahim&label=Profile%20views&color=0e75b6&style=flat" alt="moinulhossainmahim" /> </p>
 
-- 🔭 I’m currently working on: [stuRENT](https://https://sturent.vercel.app/)
+- 🔭 I’m currently working on: [stuRENT](https://sturent.vercel.app/)
 
 - 🌱 I’m currently learning: **NestJS, Docker, Backend Development**
 
