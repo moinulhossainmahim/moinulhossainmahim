@@ -19,7 +19,7 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I am a Full Stack Web Application Developer who absolutely loves working with Next.js, React, TailwindCSS, APIs, Data Strcutures, Algorithms. **Currently, I am looking for job opportunities where I can bring my passion for coding to life**
+I am a Full Stack Web Application Developer who absolutely loves working with Next.js, React, TailwindCSS, APIs, Data Structures, Algorithms. **Currently, I am looking for job opportunities where I can bring my passion for coding to life**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinulhossainmahim&label=Profile%20views&color=0e75b6&style=flat" alt="moinulhossainmahim" /> </p>
 
