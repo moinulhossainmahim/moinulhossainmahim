@@ -19,24 +19,7 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I am a Full Stack Web Application Developer who absolutely loves working with Next.js, React, TailwindCSS, APIs, Data Structures, Algorithms. **Currently, I am looking for job opportunities where I can bring my passion for coding to life**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moinulhossainmahim&label=Profile%20views&color=0e75b6&style=flat" alt="moinulhossainmahim" /> </p>
-
-- 🔭 I’m currently working on: [stuRENT](https://sturent.vercel.app/)
-
-- 🌱 I’m currently learning: **NestJS, Docker, Backend Development**
-
-- 👨‍💻 All of my projects are available at: [Portfolio](https://mahim.dev)
-
-- 💬 Ask me about: **JavaScript, Web Devlopment**
-
-- 📫 How to reach me: **moinulhossainmahim@gmail.com**
-
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/12-N_JNLSNs2m7MM0Oj7cr_WsSrjX-Nph/view?usp=sharing)
-
-- ⚡ Fun fact: **Equal is Not Always Equal in JS** 😁
-
+I am a Software Engineer who absolutely loves working with Next.js, React, TailwindCSS, APIs, Data Structures, Algorithms.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/themoinul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="themoinul" height="30" width="40" /></a>
