@@ -19,7 +19,7 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I am a Software Engineer who absolutely loves working with Next.js, React, TailwindCSS, APIs, Data Structures, Algorithms.
+I am a Software Engineer who absolutely loves working with JavaScript, TypeScript, Next.js, React, TailwindCSS, NestJS, Data Structures, Algorithms.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/themoinul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="themoinul" height="30" width="40" /></a>
