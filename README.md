@@ -28,10 +28,6 @@ I am a Software Engineer who absolutely loves working with JavaScript, TypeScrip
 <a href="https://codeforces.com/profile/moinulhossainmahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="moinulhossainmahim" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moinulhossainmahim&show_icons=true&locale=en&layout=compact" alt="moinulhossainmahim" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moinulhossainmahim&show_icons=true&locale=en" alt="moinulhossainmahim" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moinulhossainmahim&" alt="moinulhossainmahim" /></p>
 
 <div>
